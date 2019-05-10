@@ -7,3 +7,5 @@ Yang sudah diatur folder training dan test :
 https://drive.google.com/file/d/1t51wZlKXPpFNLNW0s-ZP3SVmYdnQfuIj/view?usp=sharing
 
 (silahkan di ekstrak terlebih dahulu)
+Dataset Jakarta:
+https://drive.google.com/file/d/1RRy-XpIEAmlrIVS_IBJvhAMDOnnEQq4x/view?usp=sharing
